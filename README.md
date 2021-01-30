@@ -30,7 +30,7 @@ The dataset was taken from [HR Analytics: Job Change of Data Scientists](https:/
 
 ## Installation 
 
-This project uses conda as a environment/package manager. To easily run this project in your machine, you should have ananconda or miniconda installed (You might want to refer to [Conda documentation](https://docs.conda.io/en/latest/index.html)). Alternatively, you can use your preferred method to install the required dependencies (`jupyter`, `NumPy`, `Pandas`, `Matplotlib` and `seaborn`); use the versions stated in the environment.yml file to reproduce the same environment used for this project..
+This project uses conda as a environment/package manager. To easily run this project in your machine, you should have ananconda or miniconda installed (You might want to refer to [Conda documentation](https://docs.conda.io/en/latest/index.html)). Alternatively, you can use your preferred method to install the required dependencies (`jupyter`, `NumPy`, `Pandas`, `Matplotlib` and `scikit-learn`); use the versions stated in the environment.yml file to reproduce the same environment used for this project..
 
 First, clone this repository to your machine:
 
